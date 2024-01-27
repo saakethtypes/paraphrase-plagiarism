@@ -1,0 +1,11 @@
+!python3 -m nltk.downloader stopwords
+pandas
+torch
+keras_preprocessing
+transformers
+sklearn
+langdetect
+nltk
+re
+numpy
+streamlit 
